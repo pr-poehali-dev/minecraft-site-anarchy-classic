@@ -89,16 +89,7 @@ export const Contacts = () => {
         <div className="text-gray-500 text-sm">Версия 1.21.1 · Java Edition · 24/7</div>
       </div>
 
-      {/* Footer */}
-      <div
-        className="text-center mt-16 pt-8"
-        style={{ borderTop: '1px solid var(--theme-border)' }}
-      >
-        <div className="font-pixel mb-2" style={{ color: 'var(--theme-text-accent)', fontSize: '9px' }}>
-          GAMAI CLUB
-        </div>
-        <div className="text-gray-700 text-xs">© 2024 gamai.club · Не связан с Mojang AB</div>
-      </div>
+
     </div>
   );
 };
